@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Jennifer
+  given-names: Bower
+orcid: https://orcid.org/0000-0002-5938-1464
+title: "Code for "A regional comparison of two soil health assessment frameworks""
+version: v1.0.0
+date-released: 2026-09-29
