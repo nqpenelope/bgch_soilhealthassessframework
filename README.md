@@ -11,4 +11,4 @@ R scripts (R 4.5.0) behind the figures and tables. Run in order from the project
 | `03_texture_design.R` | Figures 5–6, Tables 5–6, Figure S2 |
 | `04_references.R` | Figure 7 |
 
-Field-level data are redacted (marked `redacted`) under the terms of our farmer agreements, so the scripts document the analysis but will not run as published.
+Sample-level data are redacted (marked `redacted`) under the terms of our farmer agreements, so the scripts document the analysis but will not run as published.
